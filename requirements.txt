@@ -1,5 +1,5 @@
 requests
 streamlit_lottie
-PIL
+pillow
 path
 base64
