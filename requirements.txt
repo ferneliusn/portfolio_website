@@ -2,4 +2,4 @@ requests
 streamlit_lottie
 pillow
 path
-base64
+
